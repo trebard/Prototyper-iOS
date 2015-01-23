@@ -1,2 +1,2 @@
-# prototype
+# Prototyper-iOS
 iOS prototyping code
